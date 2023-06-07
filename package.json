@@ -1,0 +1,25 @@
+{
+  "name": "fileuploadapi",
+  "version": "1.0.0",
+  "description": "For testing only",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayant-080/fileuploadapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayant-080/fileuploadapi/issues"
+  },
+  "homepage": "https://github.com/jayant-080/fileuploadapi#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0"
+  }
+}
